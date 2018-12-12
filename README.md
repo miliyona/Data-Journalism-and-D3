@@ -1,4 +1,4 @@
-# Unit 16 | Assignment - Data Journalism and D3
+# Unit 16 | Project Title - Data Journalism and D3
 
 ## Background
 
